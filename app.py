@@ -1,11 +1,11 @@
 from http.server import BaseHTTPRequestHandler, HTTPServer
 
 PAGE = """<!doctype html>
-<html lang="zh">
+<html lang="en">
 <head><meta charset="utf-8"><title>aaa</title></head>
 <body style="font-family:sans-serif;text-align:center;margin-top:100px">
   <h1>Hello, aaa!</h1>
-  <p>这是一个简单的 Python Web 页面。</p>
+  <p>This is a simple Python web page.</p>
 </body>
 </html>"""
 
